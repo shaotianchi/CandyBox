@@ -1,0 +1,8 @@
+@import "library/common.js"
+@import "library/sketch-nibui.js"
+
+var generate = function(context) {
+    com.rainbow.init(context);
+    com.rainbow.generate();
+};
+

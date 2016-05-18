@@ -1,0 +1,23 @@
+{
+  "author" : "EscapedDog",
+  "commands" : [
+    {
+      "script" : "script.cocoascript",
+      "handler" : "generate",
+      "shortcut" : "",
+      "name" : "generate",
+      "identifier" : "generate"
+    }
+  ],
+  "menu" : {
+    "items" : [
+      "generate"
+    ],
+    "title" : "CandyBox"
+  },
+  "identifier" : "com.rainbow.CandyBox",
+  "version" : "1.0",
+  "description" : "",
+  "authorEmail" : "",
+  "name" : "CandyBox"
+}
